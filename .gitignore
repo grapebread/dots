@@ -1,0 +1,11 @@
+/*
+
+!.vimrc
+!.gitignore
+!.xinitrc
+
+!.config/
+.config/*
+!.config/alacritty/
+!.config/spectrwm/
+!.config/dunst/
